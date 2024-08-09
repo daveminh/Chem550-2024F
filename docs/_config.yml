@@ -7,9 +7,9 @@ description: |
     Instructor: David Minh
 
 # message: Register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
-baseurl: "/Chem550-2023F" # the subpath of your site, e.g. /blog
+baseurl: "/Chem550-2024F" # the subpath of your site, e.g. /blog
 url: "http://daveminh.github.io/" # the base hostname & protocol for your site
-githubdir: "daveminh/Chem550-2023F"
+githubdir: "daveminh/Chem550-2024F"
 
 # Author/user information
 email: david.minh@iit.edu
