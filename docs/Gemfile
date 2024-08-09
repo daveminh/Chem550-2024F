@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+
+gem "jekyll", ">= 3.6.3"
+gem "jekyll-jalali"
+gem "jekyll-relative-links"
+
+gem "kramdown-parser-gfm"

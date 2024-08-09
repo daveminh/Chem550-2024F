@@ -1,0 +1,148 @@
+- day: Tu
+  date: 8/22
+  title: "Introduction and syllabus. Operators. Bra-ket notation."
+  basename: 08-22-introduction
+
+- day: Th
+  date: 8/24
+  title: "Postulates."
+  basename: 08-24-postulates
+
+- day: Tu
+  date: 8/29
+  title: "Uncertainty. Time Evolution. Implications of the Schrödinger equation."
+  basename: 08-29-wave_functions
+  exercise: "1: Introduction to Google Colab"
+  notebook: 01-google_colab
+
+- day: Th
+  date: 8/31
+  title: One-dimensional model systems. Tunneling. Vibrational spectroscopy. 
+  basename: 08-31-one_dimensional
+  due: "Homework 1"
+
+- day: Tu
+  date: 9/5
+  title: "Rotation: Particle on a ring. Angular momentum. Rigid rotor + rotational spectroscopy."
+  basename: 09-05-rotation
+  due: "Exercise 1"
+
+- day: Th
+  date: 9/7
+  title: "Spherical systems: Particle on a sphere. Spherical harmonics. Hydrogenic atoms."
+  basename: 09-07-spherical_systems
+  due: "Homework 2"  
+
+- day: Tu
+  date: 9/12
+  title: "Ladder operators. Spin."
+  basename: 09-12-spin
+
+- day: Th
+  date: 9/14
+  title: "Review / Catch up."
+  basename: 09-14-review
+  due: "Homework 3"
+
+- day: Tu
+  date: 9/19
+  title: "Midterm 1: Analytical Systems."
+
+- day: Th
+  date: 9/21
+  title: "Variation theory. Raleigh-Ritz."
+  basename: 09-19-variation
+
+- day: Tu
+  date: 9/26
+  title: "Perturbation theory."
+  basename: 09-26-perturbation
+
+- day: Th
+  date: 9/28
+  title: "Many-electron atoms. Slater determinants."
+  basename: 09-28-many_electrons
+
+- day: Tu
+  date: 10/3
+  title: "Born-Oppenheimer approximation and H+."
+  basename: 10-03-born-oppenheimer
+  due: "Homework 4"
+
+- day: Th
+  date: 10/5
+  title: "Molecular orbital theory."
+  basename: 10-05-molecular_orbital
+
+- day: Tu
+  date: 10/10
+  title: "Hartree-Fock Method. Basis sets."
+  basename: 10-10-Hartree-Fock
+
+- day: Th
+  date: 10/12
+  title: "Midterm 2: Approximation Methods."
+
+- day: Tu
+  date: 10/17
+  title: "No class."
+
+- day: Th
+  date: 10/19
+  exercise: "2: Introduction to molecular modeling."
+
+- day: Tu
+  date: 10/24
+  exercise: "3: Choice of basis set."
+
+- day: Th
+  date: 10/26
+  title: "Post Hartree-Fock Methods. Configuration Interaction."
+  basename: 10-26-Post-Hartree-Fock
+  due: "Exercise 2"
+
+- day: Tu
+  date: 10/31
+  exercise: "4: Single-point energies"
+  due: "Exercise 3"
+
+- day: Th
+  date: 11/2
+  exercise: "5: Electron densities and electrostatic potentials"
+
+- day: Tu
+  date: 11/7
+  exercise: "6: Computing spectroscopic and thermochemical properties"
+  due: "Exercise 4. Select molecules."
+
+- day: Th
+  date: 11/9
+  exercise: "7: Transition states"
+  due: "Exercise 5"
+
+- day: Tu 
+  date: 11/14
+  title: "Project proposals"
+  due: "Exercise 6"
+
+- day: Th
+  date: 11/16
+  title: "Project proposals"
+  due: "Exercise 7"
+
+- day: Tu 
+  date: 11/21
+  title: "Midterm 3: Molecular Modeling."
+
+- day: Th
+  date: 11/23
+  title: "No class due to Thanksgiving."
+
+- day: Tu 
+  date: 11/28
+  exercise: "8: Quantum Mechanics/Molecular Mechanics (QM/MM) calculations."
+
+- day: Th
+  date: 11/30
+  title: "Interpretations of Quantum Mechanics."
+  basename: 11-30-Interpretations
