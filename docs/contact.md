@@ -14,8 +14,8 @@ Office phone: (312) 567-3411 \\
 
 # Class Hours
 
-Tuesday and Thursday, 1:50pm-3:05pm, Stuart Building 112F
+TBD, Stuart Building 112F
 
-# Office Hours
+# Contact outside of class hours
 
-Monday, 10am-11am, or by appointment. To set up an appointment, first check [my availability calendar](https://calendar.google.com/calendar/embed?src=daveminh@gmail.com&ctz=America/Chicago) and then [send me an email](mailto:david.minh@iit.edu) to propose _a few times_ that work for you.
+I plan to normally be available immediately before or after class. At other times, I usually can answer questions by email. If a discussion is helpful, please set up an appointment using the link in my email signature (omitted here to limit spam). If you set up less than a day in advance, I may not see it.

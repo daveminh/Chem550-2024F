@@ -1,148 +1,150 @@
-- day: Tu
-  date: 8/22
-  title: "Introduction and syllabus. Operators. Bra-ket notation."
-  basename: 08-22-introduction
+- day: M
+  date: 8/19
+  title: "No class - Dr. Minh conference travel"
 
-- day: Th
-  date: 8/24
-  title: "Postulates."
-  basename: 08-24-postulates
+- day: W
+  date: 8/21
+  title: "No class - Dr. Minh conference travel"
 
-- day: Tu
-  date: 8/29
-  title: "Uncertainty. Time Evolution. Implications of the Schrödinger equation."
-  basename: 08-29-wave_functions
-  exercise: "1: Introduction to Google Colab"
-  notebook: 01-google_colab
+- day: M
+  date: 8/26
+  title: "Introduction and syllabus. Operators"
+  basename: "08-26-Introduction"
 
-- day: Th
-  date: 8/31
-  title: One-dimensional model systems. Tunneling. Vibrational spectroscopy. 
-  basename: 08-31-one_dimensional
-  due: "Homework 1"
+- day: W
+  date: 8/28
+  title: "Bra-ket notation. Postulates"
+  basename: "08-28-Postulates"
 
-- day: Tu
-  date: 9/5
-  title: "Rotation: Particle on a ring. Angular momentum. Rigid rotor + rotational spectroscopy."
-  basename: 09-05-rotation
-  due: "Exercise 1"
+- day: M
+  date: 9/2
+  title: "No class - Labor Day"
 
-- day: Th
-  date: 9/7
-  title: "Spherical systems: Particle on a sphere. Spherical harmonics. Hydrogenic atoms."
-  basename: 09-07-spherical_systems
-  due: "Homework 2"  
+- day: W
+  date: 9/4
+  title: "The Heisenberg uncertainty principle. Wave functions"
+  basename_template: "09-04-The Heisenberg uncertainty principle"
 
-- day: Tu
-  date: 9/12
-  title: "Ladder operators. Spin."
-  basename: 09-12-spin
+- day: M
+  date: 9/9
+  title: ". One-dimensional model systems: Free particle. Particle in a box. Tunneling. Harmonic oscillator + vibrational spectroscopy. "
+  exercise: "1: Google Colab"
+  basename_template: "09-09-. One-dimensional model systems: Free particle. Particle in a box. Tunneling. Harmonic oscillator + vibrational spectroscopy. "
+  due: "HW 1"
 
-- day: Th
-  date: 9/14
-  title: "Review / Catch up."
-  basename: 09-14-review
-  due: "Homework 3"
+- day: W
+  date: 9/11
+  title: "Rotation: Particle on a ring. Angular momentum. Rigid rotor + rotational spectroscopy"
+  basename_template: "09-11-Rotation: Particle on a ring"
 
-- day: Tu
-  date: 9/19
-  title: "Midterm 1: Analytical Systems."
+- day: M
+  date: 9/16
+  title: "Spherical systems: Particle on a sphere. Spherical harmonics. Hydrogenic atoms. "
+  basename_template: "09-16-Spherical systems: Particle on a sphere"
+  due: "Exercise 1. HW 2"
 
-- day: Th
-  date: 9/21
-  title: "Variation theory. Raleigh-Ritz."
-  basename: 09-19-variation
+- day: W
+  date: 9/18
+  title: "Ladder operators. Spin"
+  basename_template: "09-18-Ladder operators"
 
-- day: Tu
-  date: 9/26
-  title: "Perturbation theory."
-  basename: 09-26-perturbation
+- day: M
+  date: 9/23
+  title: "Midterm 1: Analytical Systems"
+  basename_template: "09-23-Midterm 1: Analytical Systems"
+  due: "HW 3"
 
-- day: Th
-  date: 9/28
-  title: "Many-electron atoms. Slater determinants."
-  basename: 09-28-many_electrons
+- day: W
+  date: 9/25
+  title: "Variation theory. Raleigh-Ritz"
+  basename_template: "09-25-Variation theory"
 
-- day: Tu
-  date: 10/3
-  title: "Born-Oppenheimer approximation and H+."
-  basename: 10-03-born-oppenheimer
-  due: "Homework 4"
+- day: M
+  date: 9/30
+  title: "Perturbation theory"
+  basename_template: "09-30-Perturbation theory"
 
-- day: Th
-  date: 10/5
-  title: "Molecular orbital theory."
-  basename: 10-05-molecular_orbital
+- day: W
+  date: 10/2
+  title: "Many-electron atoms. Slater determinants"
+  basename_template: "10-02-Many-electron atoms"
 
-- day: Tu
-  date: 10/10
-  title: "Hartree-Fock Method. Basis sets."
-  basename: 10-10-Hartree-Fock
+- day: M
+  date: 10/7
+  title: "No class - Fall Break Day"
 
-- day: Th
-  date: 10/12
-  title: "Midterm 2: Approximation Methods."
+- day: W
+  date: 10/9
+  title: "Born-Oppenheimer approximation and H+"
+  basename_template: "10-09-Born-Oppenheimer approximation and H+"
+  due: "HW 4"
 
-- day: Tu
-  date: 10/17
-  title: "No class."
+- day: M
+  date: 10/14
+  title: "Molecular orbital theory"
+  basename_template: "10-14-Molecular orbital theory"
 
-- day: Th
-  date: 10/19
-  exercise: "2: Introduction to molecular modeling."
+- day: W
+  date: 10/16
+  title: "Hartree-Fock Method. Basis sets"
+  basename_template: "10-16-Hartree-Fock Method"
 
-- day: Tu
-  date: 10/24
-  exercise: "3: Choice of basis set."
+- day: M
+  date: 10/21
+  title: "Midterm 2: Approximation Methods"
+  basename_template: "10-21-Midterm 2: Approximation Methods"
 
-- day: Th
-  date: 10/26
-  title: "Post Hartree-Fock Methods. Configuration Interaction."
-  basename: 10-26-Post-Hartree-Fock
+- day: W
+  date: 10/23
+  exercise: "2: Introduction to molecular modeling"
+
+- day: M
+  date: 10/28
+  exercise: "3: Choice of basis set"
+
+- day: W
+  date: 10/30
+  title: "Post Hartree-Fock Methods. Configuration Interaction"
+  basename_template: "10-30-Post Hartree-Fock Methods"
   due: "Exercise 2"
 
-- day: Tu
-  date: 10/31
+- day: M
+  date: 11/4
   exercise: "4: Single-point energies"
   due: "Exercise 3"
 
-- day: Th
-  date: 11/2
+- day: W
+  date: 11/6
   exercise: "5: Electron densities and electrostatic potentials"
 
-- day: Tu
-  date: 11/7
+- day: M
+  date: 11/11
   exercise: "6: Computing spectroscopic and thermochemical properties"
-  due: "Exercise 4. Select molecules."
+  due: "Exercise 4. Select molecules"
 
-- day: Th
-  date: 11/9
+- day: W
+  date: 11/13
   exercise: "7: Transition states"
   due: "Exercise 5"
 
-- day: Tu 
-  date: 11/14
-  title: "Project proposals"
+- day: M
+  date: 11/18
+  title: "Project Proposals. After class if needed"
+  basename_template: "11-18-Project Proposals"
   due: "Exercise 6"
 
-- day: Th
-  date: 11/16
-  title: "Project proposals"
+- day: W
+  date: 11/20
+  title: "Midterm 3: Molecular Modeling"
+  basename_template: "11-20-Midterm 3: Molecular Modeling"
   due: "Exercise 7"
 
-- day: Tu 
-  date: 11/21
-  title: "Midterm 3: Molecular Modeling."
+- day: M
+  date: 11/25
+  title: "During lunch: Interpretations of Quantum Mechanics. "
+  exercise: "8: Quantum Mechanics/Molecular Mechanics (QM/MM) calculations"
+  basename_template: "11-25-. Exercise 8: Quantum Mechanics/Molecular Mechanics (QM/MM) calculations"
 
-- day: Th
-  date: 11/23
-  title: "No class due to Thanksgiving."
-
-- day: Tu 
-  date: 11/28
-  exercise: "8: Quantum Mechanics/Molecular Mechanics (QM/MM) calculations."
-
-- day: Th
-  date: 11/30
-  title: "Interpretations of Quantum Mechanics."
-  basename: 11-30-Interpretations
+- day: W
+  date: 11/27
+  title: "No class - Thanksgiving Break"

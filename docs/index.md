@@ -8,7 +8,7 @@ title: About
 An overview of quantum chemistry ranging from foundational postulates and analytical systems to approximation methods and practical molecular modeling calculations. Postulates of quantum mechanics and applications to model systems relevant to chemistry including the particle in a box, harmonic oscillator, rigid rotor, and hydrogen atom. Approximation methods based on perturbation theory and the variational principle. Principles of computational techniques including basis sets and the Hartree-Fock method. Molecular modeling calculations including geometry optimization, electron density, electrostatic potential, and spectroscopy predictions.
 
 # Text
-* Molecular Quantum Mechanics, 5th edition (ISBN: 978-0199541423, Oxford University Press, 2010) by Peter W. Atkins and Ronald S. Friedman. http://global.oup.com/uk/orc/chemistry/mqm5e/.
+* [Molecular Quantum Mechanics, 5th edition (ISBN: 978-0199541423, Oxford University Press, 2010) by Peter W. Atkins and Ronald S. Friedman.](http://global.oup.com/uk/orc/chemistry/mqm5e/).
 * Recommended: Quantum Chemistry, 2nd edition (ISBN: 978-1891389504, University Science Books, 2007) by Donald A. McQuarrie.
 
 # Learning Objectives
@@ -37,7 +37,7 @@ The goals of this course are that you will be able to:
 
 # Prerequisite Knowledge
 
-The Computer Science Requirement (CS 105/110/115), differential equations (MATH 252), and introductory quantum mechanics (CHEM 344).
+Differential equations (MATH 252), and introductory quantum mechanics (CHEM 344). The Computer Science Requirement (CS 105/110/115) is helpful but not required.
 
 Chemistry 454 / 550 is intended for beginning graduate students and advanced undergraduates who have already taken an undergraduate-level quantum chemistry course. A greater breadth and depth of understanding will be expected than for students taking quantum chemistry for the first time.
 
@@ -57,6 +57,12 @@ Examinations will emphasize the material covered in class. They will be open boo
 
 # Absences
 
-Attendance at lectures is highly recommended and required to earn participation points (see “Grading” below). If you need to miss a lecture for any reason, you should watch the recording online. When I ask questions to the class, try to pause the recording and answer them yourself before moving ahead to the answer. You may have a number of unexcused absences from lectures without directly affecting your grade. However, I strongly discourage you from habitually skipping class. Students who do so often do not pass and rarely do well.
+Attendance at lectures is highly recommended and required to earn participation points (see “Grading”). If you need to miss a lecture for any reason, you should watch the recording online. When I ask questions to the class, try to pause the recording and answer them yourself before moving ahead to the answer. You may have a number of unexcused absences from lectures without directly affecting your grade. However, I strongly discourage you from habitually skipping class. Students who do so often do not pass and rarely do well.
 
 If you need miss a midterm, you should be excused. To be excused for illness or quarantine, you should contact student affairs. They will evaluate the situation and provide me with a recommendation about accommodating your circumstance. To be excused for sports, you should provide me with a note from your coach. If you are excused, we will discuss a way that you can make up for the absence.
+
+# Accounts
+
+You should use your IIT Google account to run Google Colab notebooks and store data. If you have and use a personal Google account, you may run out of disk space. 
+
+You may but are not required to use ACCESS-CI supercomputers. You will need to let me know you account name so I can provide you access to an allocation. [Sign up for an ACCESS-CI account.](https://operations.access-ci.org/identity/new-user)

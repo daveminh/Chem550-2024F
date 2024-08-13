@@ -14,7 +14,7 @@ Instead of a traditional point-based system, we will use specifications grading.
 | Individual contribution to final project	| Minor contribution, no report	| Minor contribution | 454: Minor contribution / 550: Major contribution  |  454: Major contribution / 550: Vital contribution |
 | Midterms | 1 | 1 | 2 | 3  |
 | Homework | 2 | 2 | 3 | 4 |
-| Exercises | 3 | 4 | 5 | 6 |
+| Exercises | 4 | 5 | 6 | 7 |
 | Participation | 4 | 6 | 8 | 10 |
 | <i>Team</i>
 | Final presentation | | Complete | Clear scientific contribution | Conference quality |
@@ -23,11 +23,12 @@ Instead of a traditional point-based system, we will use specifications grading.
 Requirements for an assignment to be considered on time depend on whether it is take-home or in class. Take-home assignments (homework, exercises, reports, and presentation files) should be submitted on Google Drive before class. Midterms should be submitted on Google Drive within 5 minutes of the end of class.
 
 Meeting specifications requires earning at least a minimal percentage of points on an assignment. For homework and exercises, this is 80%. For midterms, it is 60%. Earning these points requires part of a problem to be completely correct; there is no partial credit on any part of a problem.
+
 In addition to meeting specifications described in the rubrics, all satisfactory reports will be presented logically and use proper English grammar. The main text should be double-spaced in Times New Roman size 12 font on regular letter paper size with 1-inch margin on all sides. Your name and the document title should be on the top of the first page. Figures, tables, captions, and references do not count towards the page limit and should be included after the main text.
 
 For the project proposal presentation and report, you will select and do some research on a molecule to perform some computational chemistry calculations.
 
-A significant part of the class will be based on a final project completed in a group of 3 or 4 students. During the final examination period, your group will give a 25-30 minute presentation about your project. You will also write a final report in the format of a scientific journal article. It should be at least 5 pages.
+A significant part of the class will be based on a final project completed in a group of 2 or 3 students. During the final examination period, your group will give a 25-30 minute presentation about your project. You will also write a final report in the format of a scientific journal article. It should be at least 5 pages.
 
 You will also write an individual contribution report describing how you contributed to the team project. It should be at least 1 page. This report will be reviewed by your teammates for credibility. The report and peer review will be used to classify your level of individual contribution.
 
@@ -55,5 +56,5 @@ If your question and answer is satisfactory (reasonably distinct from the origin
 
 Homework and exercises may be submitted late if I have not yet shared the answers. I will share the answers soon before midterms.
 
-You may also transfer tokens to a teammate at any time during the final project. For example, to compensate extra contribution to the project, a teammate trying for a C may transfer a token to a teammate who would like an A but who needs to revise a exercise. Token transfers must be reported to me by the token sender via email.
+You may also transfer tokens to a teammate at any time during the final project. For example, to compensate extra contribution to the project, a teammate trying for a C may transfer a token to a teammate who would like an A but who needs to revise a exercise. Token transfers must be reported to me by the token sender via email. You must provide a reason for a token transfer.
 

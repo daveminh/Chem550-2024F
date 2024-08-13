@@ -2,7 +2,7 @@
 title: Illinois Institute of Technology
 course_name: Chem 550 - Theoretical and Computational Quantum Chemistry
 course_description: "A project-based introduction to computer-aided drug design tools and the principles behind them. Structural alignment and homology modeling. Molecular docking and molecular mechanics force fields for binding enthalpies. Continuum dielectric models of electrostatics and solvation. The Boltzmann distribution and alchemical binding free energy calculations. Quantitative structure property relationships. Business, legal, and ethical considerations of drug development."
-course_semester: "Fall 2023"
+course_semester: "Fall 2024"
 description: |
     Instructor: David Minh
 
@@ -15,7 +15,7 @@ githubdir: "daveminh/Chem550-2024F"
 email: david.minh@iit.edu
 # twitter_username: username
 github_username:  daveminh
-authorurl: "http://mypages.iit.edu/~dminh"
+authorurl: "https://ccbatiit.github.io/"
 address: |
     Department of Chemistry
     Illinois Institute of Technology
