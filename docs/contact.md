@@ -14,7 +14,7 @@ Office phone: (312) 567-3411 \\
 
 # Class Hours
 
-TBD, Stuart Building 112F
+Monday and Wednesday, 1:50am-3:05pm, SB 112F and/or Zoom
 
 # Contact outside of class hours
 
