@@ -23,11 +23,11 @@
 - day: W
   date: 9/4
   title: "The Heisenberg uncertainty principle. Wave functions"
-  basename_template: "09-04-The Heisenberg uncertainty principle"
+  basename_template: "09-04-Wave"
 
 - day: M
   date: 9/9
-  title: ". One-dimensional model systems: Free particle. Particle in a box. Tunneling. Harmonic oscillator + vibrational spectroscopy. "
+  title: "One-dimensional model systems: Free particle. Particle in a box. Tunneling. Harmonic oscillator + vibrational spectroscopy. "
   exercise: "1: Google Colab"
   basename_template: "09-09-. One-dimensional model systems: Free particle. Particle in a box. Tunneling. Harmonic oscillator + vibrational spectroscopy. "
   due: "HW 1"
