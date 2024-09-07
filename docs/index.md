@@ -20,7 +20,6 @@ The goals of this course are that you will be able to:
 * Write mathematical expressions in Dirac Bra-Ket notation
 * Recall and explain the postulates of quantum mechanics
 * Evaluate expectations for given wave functions
-* Express time derivatives of expectation values
 * Use the general uncertainty principle to evaluate limits on the simultaneous specification of a pair of quantities
 * Explain quantum penetration and tunneling
 * Obtain and interpret solutions of the Schrodinger equation for tractable systems including the particle in a box, harmonic oscillator, rigid rotor, and hydrogen atom

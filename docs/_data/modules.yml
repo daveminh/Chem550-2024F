@@ -27,14 +27,15 @@
 
 - day: M
   date: 9/9
-  title: "Rotation: Particle on a ring. Angular momentum. Rigid rotor + rotational spectroscopy"
+  title: "Infrared spectroscopy."
+  basename: "09-09-Infrared_Spectroscopy"
   exercise: "1: Google Colab"
   due: "HW 1"
 
 - day: W
   date: 9/11
   title: "Rotation: Particle on a ring. Angular momentum. Rigid rotor + rotational spectroscopy"
-  basename_template: "09-11-Rotation: Particle on a ring"
+  basename_template: "09-11-Rotation"
 
 - day: M
   date: 9/16
