@@ -1,15 +1,19 @@
 import re
 
 def sub(str):
-    str = re.sub('\\\\uv (\w*)', 
+    str = str.replace('&=&','=')
+    str = str.replace(r'\\','')
+    str = re.sub('\\\\uv ([\\\\,\w]*)', 
                  lambda m: f'\\mathbf{{\\hat{{{m.group(1)}}}}}', str)
     frac = r"\frac"
-    str = re.sub('\\\\d[\s,\{](\w*)[\s,\}][\s,\{](\w*)[\s,\}]', 
+    str = re.sub('\\\\d[\s,\{]([\\\\,\w]*)[\s,\}][\s,\{]([\\\\,\w]*)[\s,\}]', 
                  lambda m: f'{frac}{{d{m.group(1)}}}{{d{m.group(2)}}}', str)
-    str = re.sub('\\\\dd[\s,\{](\w*)[\s,\}][\s,\{](\w*)[\s,\}]', 
+    str = re.sub('\\\\dd[\s,\{]([\\\\,\w]*)[\s,\}][\s,\{]([\\\\,\w]*)[\s,\}]', 
                  lambda m: f'{frac}{{d^2{m.group(1)}}}{{d{m.group(2)}^2}}', str)
-    str = re.sub('\\\\pd[\s,\{](\w*)[\s,\}][\s,\{](\w*)[\s,\}]', 
+    str = re.sub('\\\\pd[\s,\{]([\\\\,\w]*)[\s,\}][\s,\{]([\\\\,\w]*)[\s,\}]', 
                  lambda m: f'{frac}{{\partial {m.group(1)}}}{{\partial {m.group(2)}}}', str)
-    str = re.sub('\\\\pdd[\s,\{](\w*)[\s,\}][\s,\{](\w*)[\s,\}]', 
+    str = re.sub('\\\\pdd[\s,\{]([\\\\,\w]*)[\s,\}][\s,\{]([\\\\,\w]*)[\s,\}]', 
                  lambda m: f'{frac}{{\partial^2 {m.group(1)}}}{{\partial {m.group(2)}^2}}', str)        
-    return str
+    print(str)
+#    return str
+

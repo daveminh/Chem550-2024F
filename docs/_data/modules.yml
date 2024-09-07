@@ -22,8 +22,8 @@
 
 - day: W
   date: 9/4
-  title: "The Heisenberg uncertainty principle. One-dimensional model systems: Free particle. Penetration. Tunneling. Particle in a box. Harmonic oscillator + vibrational spectroscopy."
-  basename: "09-04-1D_Systems"
+  title: "The Heisenberg uncertainty principle. Linear systems: Free particle. Penetration. Tunneling. Particle in a box. Harmonic oscillator."
+  basename: "09-04-Linear_Systems"
 
 - day: M
   date: 9/9
@@ -34,13 +34,13 @@
 
 - day: W
   date: 9/11
-  title: "Rotation: Particle on a ring. Angular momentum. Rigid rotor + rotational spectroscopy"
-  basename_template: "09-11-Rotation"
+  title: "Angular systems: Particle on a ring. Particle on a sphere. Spherical harmonics. Rigid Rotor."
+  basename: "09-11-Angular_Systems"
 
 - day: M
   date: 9/16
-  title: "Spherical systems: Particle on a sphere. Spherical harmonics. Hydrogenic atoms. "
-  basename_template: "09-16-Spherical systems: Particle on a sphere"
+  title: "Hydrogenic atoms."
+  basename_template: "09-16-Hydrogenic_Atoms"
   due: "Exercise 1. HW 2"
 
 - day: W
