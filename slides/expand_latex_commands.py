@@ -1,3 +1,13 @@
+#!/usr/bin/python
+
+import argparse
+
+parser = argparse.ArgumentParser(description = \
+  'Expand some LaTeX commands')
+parser.add_argument('string', \
+  help='The LaTeX string to expand')
+args = parser.parse_args()
+
 import re
 
 def sub(str):
@@ -17,3 +27,4 @@ def sub(str):
     print(str)
 #    return str
 
+sub(args.string)

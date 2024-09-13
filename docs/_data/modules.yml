@@ -22,36 +22,34 @@
 
 - day: W
   date: 9/4
-  title: "The Heisenberg uncertainty principle. Linear systems: Free particle. Penetration. Tunneling. Particle in a box. Harmonic oscillator."
+  title: "The Heisenberg uncertainty principle. Linear systems: Free particle. Penetration. Tunneling. Particle in a box. Harmonic oscillator"
   basename: "09-04-Linear_Systems"
 
 - day: M
   date: 9/9
-  title: "Infrared spectroscopy."
+  title: "Infrared spectroscopy"
   basename: "09-09-Infrared_Spectroscopy"
   exercise: "1: Google Colab"
   due: "HW 1"
 
 - day: W
   date: 9/11
-  title: "Angular systems: Particle on a ring. Particle on a sphere. Spherical harmonics. Rigid Rotor."
+  title: "Angular systems: Particle on a ring. Particle on a sphere. Spherical harmonics. Rigid Rotor"
   basename: "09-11-Angular_Systems"
 
 - day: M
   date: 9/16
-  title: "Hydrogenic atoms."
+  title: "Hydrogenic atoms. Ladder operators. Spin"
   basename_template: "09-16-Hydrogenic_Atoms"
   due: "Exercise 1. HW 2"
 
 - day: W
   date: 9/18
-  title: "Ladder operators. Spin"
-  basename_template: "09-18-Ladder operators"
+  title: "Practice Midterm 1: Analytical Systems"
 
 - day: M
   date: 9/23
   title: "Midterm 1: Analytical Systems"
-  basename_template: "09-23-Midterm 1: Analytical Systems"
   due: "HW 3"
 
 - day: W
@@ -141,7 +139,7 @@
 
 - day: M
   date: 11/25
-  title: "During lunch: Interpretations of Quantum Mechanics. "
+  title: "During lunch: Interpretations of Quantum Mechanics"
   exercise: "8: Quantum Mechanics/Molecular Mechanics (QM/MM) calculations"
   basename_template: "11-25-. Exercise 8: Quantum Mechanics/Molecular Mechanics (QM/MM) calculations"
 
