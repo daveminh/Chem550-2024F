@@ -40,7 +40,7 @@
 - day: M
   date: 9/16
   title: "Hydrogenic atoms. Ladder operators. Spin"
-  basename_template: "09-16-Hydrogenic_Atoms"
+  basename: "09-16-Hydrogenic_Atoms"
   due: "Exercise 1. HW 2"
 
 - day: W
