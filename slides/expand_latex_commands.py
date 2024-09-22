@@ -19,6 +19,8 @@ def sub(str):
                  lambda m: f'\\mathbf{{\\hat{{{m.group(1)}}}}}', str)
     str = re.sub('\\\\uv ([\\\\,\w]*)', 
                  lambda m: f'\\mathbf{{\\hat{{{m.group(1)}}}}}', str)
+    str = re.sub('\\\\uv\{([\\\\,\w]*)\}', 
+                 lambda m: f'\\mathbf{{\\hat{{{m.group(1)}}}}}', str)    
     # \let\vaccent=\v % rename builtin command \v{} to \vaccent{}
     str = re.sub('\\\\v ([\\\\,\w]*)', 
                  lambda m: f'\\mathbf{{{m.group(1)}}}', str)
