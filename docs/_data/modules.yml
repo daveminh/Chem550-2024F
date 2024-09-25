@@ -56,14 +56,14 @@
 - day: W
   date: 9/25
   title: "Perturbation theory"
-  basename: "09-30-Perturbation_Theory"
+  basename: "09-25-Perturbation_Theory"
   exercise: "2: Approximation Methods"
   notebook: 02-Approximation_Methods
 
 - day: M
   date: 9/30
   title: "Variation theory. The Raleigh-Ritz method."
-  basename: "09-25-Variation_Theory"
+  basename: "09-30-Variation_Theory"
 
 - day: W
   date: 10/2
