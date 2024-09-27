@@ -67,8 +67,8 @@
 
 - day: W
   date: 10/2
-  title: "Many-electron atoms. Slater determinants"
-  basename_template: "10-02-Many-electron atoms"
+  title: "Many-electron atoms and molecules. Pauli Principle. Slater determinants. Born-Oppenheimer approximation."
+  basename_template: "10-02-Many-Electron_Atoms_and_Molecules"
 
 - day: M
   date: 10/7
@@ -76,24 +76,23 @@
 
 - day: W
   date: 10/9
-  title: "Born-Oppenheimer approximation and H+"
-  basename_template: "10-09-Born-Oppenheimer approximation and H+"
-  due: "HW 4. Exercise 2"
+  title: "Molecular orbital theory"
+  basename_template: "10-14-Molecular orbital theory"
+  due: "Exercise 2"
 
 - day: M
   date: 10/14
-  title: "Molecular orbital theory"
-  basename_template: "10-14-Molecular orbital theory"
+  title: "Review"
+  due: "HW 4"
 
 - day: W
   date: 10/16
-  title: "Hartree-Fock Method. Basis sets"
-  basename_template: "10-16-Hartree-Fock Method"
+  title: "Midterm 2: Approximation Methods"
 
 - day: M
   date: 10/21
-  title: "Midterm 2: Approximation Methods"
-  basename_template: "10-21-Midterm 2: Approximation Methods"
+  title: "Hartree-Fock Method. Basis sets"
+  basename_template: "10-21-Hartree-Fock Method"
 
 - day: W
   date: 10/23
