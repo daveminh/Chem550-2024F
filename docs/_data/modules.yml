@@ -68,7 +68,7 @@
 - day: W
   date: 10/2
   title: "Many-electron atoms and molecules. Pauli Principle. Slater determinants. Born-Oppenheimer approximation."
-  basename_template: "10-02-Many-Electron_Atoms_and_Molecules"
+  basename: "10-02-Many-Electron_Atoms_and_Molecules"
 
 - day: M
   date: 10/7
@@ -77,7 +77,7 @@
 - day: W
   date: 10/9
   title: "Molecular orbital theory"
-  basename_template: "10-14-Molecular orbital theory"
+  basename: "10-09-MO_Theory"
   due: "Exercise 2"
 
 - day: M
