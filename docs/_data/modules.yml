@@ -92,7 +92,7 @@
 - day: M
   date: 10/21
   title: "Hartree-Fock Method. Basis sets"
-  basename_template: "10-21-Hartree-Fock Method"
+  basename: "10-21-Hartree-Fock"
 
 - day: W
   date: 10/23
