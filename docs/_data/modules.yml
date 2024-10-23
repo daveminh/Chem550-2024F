@@ -96,7 +96,8 @@
 
 - day: W
   date: 10/23
-  exercise: "3: Introduction to molecular modeling"
+  exercise: "3: Computational Chemistry"
+  notebook: 03-Computational_Chemistry
 
 - day: M
   date: 10/28
