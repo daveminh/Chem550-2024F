@@ -101,22 +101,25 @@
 
 - day: M
   date: 10/28
-  exercise: "4: Choice of basis set"
+  title: "Post Hartree-Fock Methods"
+  basename: "10-28-Post_Hartree-Fock"
+  exercise: "4: Key Choices"
+  notebook: 04-Key_Choices
 
 - day: W
   date: 10/30
-  title: "Post Hartree-Fock Methods. Configuration Interaction"
-  basename_template: "10-30-Post Hartree-Fock Methods"
+  exercise: "4: Key Choices"
+  notebook: 04-Key_Choices
   due: "Exercise 3"
 
 - day: M
   date: 11/4
   exercise: "5: Single-point energies"
-  due: "Exercise 4"
 
 - day: W
   date: 11/6
   exercise: "6: Electron densities and electrostatic potentials"
+  due: "Exercise 4"
 
 - day: M
   date: 11/11
