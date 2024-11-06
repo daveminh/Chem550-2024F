@@ -120,8 +120,9 @@
 
 - day: W
   date: 11/6
-  exercise: "6: Electron densities and electrostatic potentials"
+  exercise: "6: Visualizing Electron Density, Electrostatic Potential, and Orbitals"
   due: "Exercise 4"
+  notebook: 06-Volumetric_Data
 
 - day: M
   date: 11/11
