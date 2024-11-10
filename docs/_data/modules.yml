@@ -127,31 +127,28 @@
 - day: M
   date: 11/11
   exercise: "7: Computing spectroscopic and thermochemical properties"
-  due: "Exercise 5. Select molecules"
+  due: "Exercise 5"
   notebook: 07-Specroscopic_Thermochemical
 
 - day: W
   date: 11/13
   exercise: "8: Transition states"
-  due: "Exercise 6"
+  due: "Exercise 6. Select molecules"
 
 - day: M
   date: 11/18
-  title: "Project Proposals. After class if needed"
-  basename_template: "11-18-Project Proposals"
+  exercise: "9: Quantum Mechanics/Molecular Mechanics (QM/MM)"
   due: "Exercise 7"
 
 - day: W
   date: 11/20
-  title: "Midterm 3: Molecular Modeling"
-  basename_template: "11-20-Midterm 3: Molecular Modeling"
+  title: "Project Proposals"
   due: "Exercise 8"
 
 - day: M
   date: 11/25
-  title: "During lunch: Interpretations of Quantum Mechanics"
-  exercise: "8: Quantum Mechanics/Molecular Mechanics (QM/MM) calculations"
-  basename_template: "11-25-. Exercise 8: Quantum Mechanics/Molecular Mechanics (QM/MM) calculations"
+  title: "Interpretations of Quantum Mechanics"
+  due: "Exercise 9"
 
 - day: W
   date: 11/27
