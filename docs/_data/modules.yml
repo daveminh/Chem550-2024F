@@ -138,8 +138,10 @@
 
 - day: M
   date: 11/18
+  title: Quantum Mechanics/Molecular Mechanics (QM/MM)
   exercise: "9: Quantum Mechanics/Molecular Mechanics (QM/MM)"
   due: "Exercise 7"
+  basename: "11-18-QMMM"
   notebook: 09-QMMM
 
 - day: W
