@@ -121,38 +121,39 @@
 - day: W
   date: 11/6
   exercise: "6: Visualizing Electron Density, Electrostatic Potential, and Orbitals"
-  due: "Exercise 4"
   notebook: 06-Volumetric_Data
+  due: "Exercise 4"
 
 - day: M
   date: 11/11
   exercise: "7: Computing spectroscopic and thermochemical properties"
-  due: "Exercise 5"
   notebook: 07-Specroscopic_Thermochemical
+  due: "Exercise 5"
 
 - day: W
   date: 11/13
   exercise: "8: Transition states"
-  due: "Exercise 6. Select molecules"
   notebook: 08-Transition_States
+  due: "Exercise 6. Select molecules"
 
 - day: M
   date: 11/18
   title: Quantum Mechanics/Molecular Mechanics (QM/MM)
   exercise: "9: Quantum Mechanics/Molecular Mechanics (QM/MM)"
-  due: "Exercise 7"
   basename: "11-18-QMMM"
   notebook: 09-QMMM
+  due: "Exercise 7"
 
 - day: W
   date: 11/20
   title: "Project Proposals"
-  due: "Exercise 8. Project proposal presentation and slides."
+  due: "Exercise 8. Project proposal presentation and slides"
 
 - day: M
   date: 11/25
   title: "Interpretations of Quantum Mechanics"
-  due: "Exercise 9. Project proposal document."
+  basename: "11-25-Interpretations"
+  due: "Exercise 9. Project proposal document"
 
 - day: W
   date: 11/27
