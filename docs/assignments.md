@@ -61,7 +61,7 @@ Your presentation should have the following sections that address specific quest
 
 In general, the sections should be in this order. However, if the Methods are not standard, you may want to include them between the Introduction and Results.
 
-The presentation should be 35 minutes long, including questions.
+The presentation should be 15 minutes long, including questions.
 
 As with the project proposal, you should prepare a series of slides to accompany your presentation. Data and figures that you did not generate should be properly cited. Citations should be numbered/named on individual slides and an [ACS-style bibliography](https://pubs.acs.org/doi/full/10.1021/acsguide.40303) included at the end of the slide slow. The slide show should be in Apple Keynote (.key), Microsoft Powerpoint (.ppt/,pptx), Google Slides (.gslides), or Portable Document Format (.pdf) format. Before the first team presents, your slides should be saved in a folder within your class folder as `FinalProject/FinalPresentation.XXX`, where `XXX` is the file extension. To expedite transitions between presentations, students will all present using the instructor's laptop.
 
